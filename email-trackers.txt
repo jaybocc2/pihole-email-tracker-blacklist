@@ -6,6 +6,8 @@ agencyofincome.com
 agkn.com
 alcmpn.com
 alocdn.com
+americanbankingnews.com
+americanconsumernews.com
 americanconsumernews.net
 analystratings.net
 api.joinnectar.com
@@ -14,6 +16,7 @@ app.mixmax.com
 app.outreach.io
 app.relateiq.com
 app.yesware.com
+audiencebridge.com
 bananatag.com
 bidswitch.net
 bigtasymmetricedge.com
@@ -24,17 +27,20 @@ cirrusinsight.com
 cl.exct.net
 click.icptrack.com
 click.mailer.atlassian.com
+clkmr.com
 cmail1.com
 constantcontact.com
 contactlab.it
 criteo.com
 crsend.com
+cryptobeat.com
 demdex.net
 dividendstocks.com
 dotmailer.com
 dotomi.com
 doubleclick.net
 dzone.com
+earlybird.com
 elaine-asp.de
 email.analystratings.net
 email.beehiivstatus.com
@@ -56,6 +62,7 @@ icontact.com
 icptrack.com
 ihrgeld2016.com
 infusionsoft.com
+insidertrades.com
 intentiq.com
 intercom.io
 inxmail.com
@@ -86,7 +93,7 @@ mailstat.us
 mailtrack.io
 mandrillapp.com
 marketbeat.com
-marketing.intercom-mail-200.com 
+marketing.intercom-mail-200.com
 mathtag.com
 media.beehiiv.com
 mediawallahscript.com
@@ -99,6 +106,7 @@ mojn.com
 neustar.biz
 newsletter2go.de
 nexac.com
+offers.analystratings.net
 openx.net
 outreach.io
 ping.answerbook.com
@@ -119,6 +127,7 @@ sendgrid.com
 sendgrid.info
 sendgrid.net
 sitescout.com
+stockreport.com
 streak.com
 t.hsms06.com
 t.nylas.com
